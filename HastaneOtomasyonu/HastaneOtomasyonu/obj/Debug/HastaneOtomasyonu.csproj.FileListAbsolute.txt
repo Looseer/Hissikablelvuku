@@ -1,0 +1,7 @@
+C:\Users\Bedirhan\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\Bedirhan\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\Bedirhan\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\Bedirhan\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Bedirhan\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Bedirhan\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\Bedirhan\source\repos\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
